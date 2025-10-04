@@ -1,0 +1,62 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the property"
+    },
+    "name": {
+      "type": "string",
+      "description": "Name of the property"
+    },
+    "address": {
+      "type": "string",
+      "description": "Address of the property"
+    },
+    "city": {
+      "type": "string",
+      "description": "City where the property is located"
+    },
+    "state": {
+      "type": "string",
+      "description": "State where the property is located"
+    },
+    "zipCode": {
+      "type": "string",
+      "description": "ZIP code of the property"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["apartment", "house", "condo", "townhouse"],
+      "description": "Type of the property"
+    },
+    "bedrooms": {
+      "type": "integer",
+      "description": "Number of bedrooms in the property"
+    },
+    "bathrooms": {
+      "type": "integer",
+      "description": "Number of bathrooms in the property"
+    },
+    "squareFeet": {
+      "type": "integer",
+      "description": "Total square footage of the property"
+    },
+    "price": {
+      "type": "number",
+      "description": "Listing price of the property"
+    },
+    "availability": {
+      "type": "boolean",
+      "description": "Availability status of the property"
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of features of the property"
+    }
+  },
+  "required": ["id", "name", "address", "city", "state", "zipCode", "type", "bedrooms", "bathrooms", "price", "availability"]
+}

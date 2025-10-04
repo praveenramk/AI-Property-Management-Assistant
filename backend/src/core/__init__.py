@@ -1,0 +1,1 @@
+# The file /ai-property-management-assistant/ai-property-management-assistant/backend/src/core/__init__.py is intentionally left blank.

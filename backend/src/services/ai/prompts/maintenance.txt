@@ -1,0 +1,9 @@
+The contents of the file /ai-property-management-assistant/ai-property-management-assistant/backend/src/services/ai/prompts/maintenance.txt are as follows:
+
+Maintenance Request Prompts:
+
+1. "Please describe the maintenance issue you are experiencing."
+2. "What is the location of the maintenance issue?"
+3. "When did you first notice the maintenance issue?"
+4. "Is there any additional information you would like to provide regarding the maintenance issue?"
+5. "Please provide your contact information for follow-up."

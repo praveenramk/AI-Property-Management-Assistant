@@ -1,0 +1,11 @@
+Rent Collection Prompt
+
+1. Reminder: "Dear [Tenant's Name], this is a friendly reminder that your rent of [Amount] is due on [Due Date]. Please ensure timely payment to avoid any late fees."
+
+2. Late Payment Notice: "Dear [Tenant's Name], we noticed that your rent payment of [Amount] due on [Due Date] has not been received. Please make the payment as soon as possible to avoid further penalties."
+
+3. Payment Confirmation: "Dear [Tenant's Name], thank you for your payment of [Amount] received on [Payment Date]. Your promptness is appreciated!"
+
+4. Payment Plan Offer: "Dear [Tenant's Name], if you're experiencing difficulties with your rent payment, please reach out to discuss potential payment plan options."
+
+5. Lease Renewal Reminder: "Dear [Tenant's Name], your lease is set to expire on [Lease Expiration Date]. Please let us know if you wish to renew your lease or if you have any questions."

@@ -1,0 +1,29 @@
+{
+  "name": "ai-property-management-assistant",
+  "version": "1.0.0",
+  "description": "A property management assistant powered by AI.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vite": "^2.6.4",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2"
+  },
+  "keywords": [
+    "AI",
+    "property management",
+    "assistant"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

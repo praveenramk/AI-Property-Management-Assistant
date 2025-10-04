@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the tenant"
+    },
+    "firstName": {
+      "type": "string",
+      "description": "First name of the tenant"
+    },
+    "lastName": {
+      "type": "string",
+      "description": "Last name of the tenant"
+    },
+    "email": {
+      "type": "string",
+      "format": "email",
+      "description": "Email address of the tenant"
+    },
+    "phone": {
+      "type": "string",
+      "description": "Phone number of the tenant"
+    },
+    "leaseStartDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Start date of the lease"
+    },
+    "leaseEndDate": {
+      "type": "string",
+      "format": "date",
+      "description": "End date of the lease"
+    },
+    "propertyId": {
+      "type": "string",
+      "description": "Identifier for the property the tenant is renting"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "inactive", "terminated"],
+      "description": "Current status of the tenant"
+    }
+  },
+  "required": ["id", "firstName", "lastName", "email", "leaseStartDate", "propertyId", "status"]
+}

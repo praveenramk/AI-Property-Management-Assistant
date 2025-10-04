@@ -1,0 +1,16 @@
+Leasing prompts for the AI Property Management Assistant project can include various scenarios and questions related to leasing properties. Here are some example contents for the file:
+
+Welcome to the AI Property Management Assistant! Here are some leasing prompts you can use:
+
+1. "What are the available properties for lease?"
+2. "Can you provide details about the lease terms for [Property Name]?"
+3. "What is the process for applying for a lease?"
+4. "Are there any current promotions or discounts on leasing?"
+5. "What documents are required to complete the leasing process?"
+6. "Can you explain the lease renewal process?"
+7. "What are the penalties for breaking a lease?"
+8. "How can I submit a maintenance request during my lease?"
+9. "What is the policy on lease termination?"
+10. "Can you provide a summary of the lease agreement for [Property Name]?"
+
+Feel free to modify or expand upon these prompts as needed!
